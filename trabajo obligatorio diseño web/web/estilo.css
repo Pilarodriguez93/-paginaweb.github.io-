@@ -1,0 +1,145 @@
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+	
+}
+
+aside {
+        flex: 0 0 calc(30% - 20px);
+        background-color: #f4f4f4;
+        padding: 10px;
+        border-radius: 5px;
+        }
+
+.logo {
+    width: 100px; /* Ajusta el ancho según tus necesidades */
+    height: auto;
+    border-radius: 20%; /* Hace que la imagen sea redonda */
+    position: absolute; /* Coloca la imagen de manera absoluta */
+    left: 20px; /* Alinea la imagen a la izquierda con un margen de 20px */
+    top: 10px; /* Alinea la imagen a 20px desde la parte superior del header */
+}
+
+.perro{
+	width: 100px; /* Ajusta el ancho según tus necesidades */
+    height: auto;
+	
+}
+
+
+.gato{
+	width: 200px; /* Ajusta el ancho según tus necesidades */
+    height: auto;
+	
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Estilos para el encabezado */
+
+header {
+    background-color: #830;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+/* Estilos para el menú de navegación */
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #830;
+    font-weight: bold;
+}
+
+.container {
+    flex: 1; /* El contenido ocupa todo el espacio disponible */
+}
+
+/* Estilos para el contenido principal */
+
+section {
+    margin-bottom: 20px;
+}
+
+/* Estilos para el formulario de contacto */
+form {
+    border: 1px solid #ccc; /* Borde del formulario */
+    padding: 5px; /* Espaciado interno del formulario */
+    border-radius: 0; /* Borde cuadrado */
+}
+
+
+/* Estilos para los campos de entrada del formulario */
+form input[type="text"],
+
+form input[type="email"],
+form textarea {
+    width: calc(100% - 60px); /* Ancho completo menos el ancho del borde */
+    padding: 5px; /* Espaciado interno */
+    margin-bottom: 10px; /* Margen inferior */
+    border: 1px solid #ccc; /* Borde de los campos */
+    border-radius: 0; /* Borde cuadrado */
+}
+
+/* Estilos para el botón de enviar del formulario */
+form input[type="submit"] {
+    background-color: #333; /* Color de fondo */
+    color: #fff; /* Color del texto */
+    padding: 10px 20px; /* Espaciado interno */
+    border: none; /* Sin borde */
+    border-radius: 0; /* Borde cuadrado */
+    cursor: pointer; /* Cambia el cursor al pasar sobre el botón */
+}
+
+
+.servicios {
+    width: 800px; 
+    height: 400px; 
+	text-align: center;
+	margin-left: 190px;
+	line-height: 15px;
+	
+}
+
+/* Estilos para el pie de página */
+
+footer {
+    background-color: #830;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+	
+}
+
+/* Estilos para enlaces */
+
+a {
+    color: #830;
+}
+
+a:hover {
+    text-decoration: underline;
+}

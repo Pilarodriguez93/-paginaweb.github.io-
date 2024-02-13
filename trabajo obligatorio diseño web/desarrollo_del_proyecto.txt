@@ -1,0 +1,35 @@
+
+Informe del Proyecto: Pergatoneo
+
+Introducción
+El proyecto Pergatoneo se trata de la creación de un sitio web dedicado al cuidado de perros y gatos.
+El objetivo principal de este proyecto es proporcionar información, consejos y servicios relacionados con el bienestar y la salud de las mascotas. Este informe detallará el proceso de desarrollo del sitio web, incluyendo el diseño y la implementación de las cinco páginas HTML principales.
+
+Análisis de Requisitos
+El sitio web Pergatoneo tendrá cinco páginas principales:
+
+Inicio: Esta página mostrará una introducción al sitio web y sus servicios.
+Sobre Mi: Aquí se proporcionará información acerca de mi persona.
+Servicios: Esta ofrecerá consejos y recomendaciones para el cuidado de los gatos, se actualizara diariamente.
+Galeria: En esta página se presentarán mascotas disponibles para adopción y se ofrecerá información sobre el proceso de adopción por privado a traves del formulario de contacto.
+Contacto: Esta página permitirá a los usuarios ponerse en contacto con el equipo de Pergatoneo a través de un formulario.
+Diseño
+El diseño del sitio web Pergatoneo se basará en una estética limpia y moderna, con colores suaves y elementos visuales que reflejen el amor por los animales. Se utilizarán imágenes de alta calidad de perros y gatos para complementar el contenido textual.
+
+Desarrollo
+El desarrollo del sitio web se llevará a cabo utilizando HTML y CSS para crear las cinco páginas principales. Se implementará un diseño receptivo para garantizar que el sitio sea compatible con dispositivos móviles y de escritorio.
+
+Implementación
+Durante la implementación, se seguirán las mejores prácticas de codificación y diseño web para garantizar la accesibilidad y la usabilidad del sitio. Se realizarán pruebas exhaustivas en diferentes navegadores y dispositivos para asegurar la funcionalidad adecuada del sitio web.
+
+Resultados
+El sitio web Pergatoneo se completó con éxito y todas las páginas principales están funcionando correctamente. El diseño es intuitivo y fácil de navegar, y el contenido proporciona información valiosa sobre el cuidado de perros y gatos.
+
+Conclusiones
+En conclusión, el proyecto Pergatoneo ha sido un éxito. El sitio web proporciona una plataforma informativa y útil para los amantes de los animales, y se espera que tenga un impacto positivo en la comunidad de dueños de mascotas.
+
+Referencias
+No aplicable para este informe.
+
+Anexos
+No aplicable para este informe.
